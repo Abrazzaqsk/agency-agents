@@ -8,7 +8,6 @@
 Thumbs.db
 
 # Editor directories and files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -86,3 +85,4 @@ integrations/vibe/agents/
 integrations/vibe/prompts/
 integrations/zcode/agents/
 graphify-out/
+config.bat
